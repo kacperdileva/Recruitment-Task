@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecruitmentTask</string>
+    <string name="cannotLoad">Result\'s could not be loaded</string>
+    <string name="notFoundQuery">No result\'s found for this query</string>
+    <string name="retry">Retry</string>
+    <string name="details">Details</string>
+    <string name="lists">Lists</string>
+    <string name="search">Search</string>
+</resources>
